@@ -35,8 +35,7 @@ Use drop-down menus or checkboxes instead of text input for binary options.
 Implement an explanation feature to describe the prediction confidence.
 Allow integration with medical databases for better accuracy.
 
-Which output goes like 
-
+Which output goes like :
 Output 1:
 ![Image](https://github.com/user-attachments/assets/f9c9df4e-5d37-4da4-a578-243406d97474)
 
